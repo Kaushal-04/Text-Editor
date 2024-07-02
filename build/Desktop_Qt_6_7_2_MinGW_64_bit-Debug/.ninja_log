@@ -1,0 +1,57 @@
+# ninja log v6
+28	2204	7416132090679023	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+28	2204	7416132090679023	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+28	2204	7416132090679023	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+28	2204	7416132090679023	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+2224	10885	7416132092977322	CMakeFiles/TextEditor.dir/main.cpp.obj	b5a2c1cc1aad9f7b
+2217	10887	7416132092821069	CMakeFiles/TextEditor.dir/TextEditor_autogen/mocs_compilation.cpp.obj	b44fca6e4a7fd505
+2231	11099	7416132092977322	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+11100	11798	7416132181752482	TextEditor.exe	cf6e87e18aee9469
+94	538	7416133778921097	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+94	538	7416133778921097	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+94	538	7416133778921097	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+94	538	7416133778921097	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+540	7357	7416133783416488	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7357	7902	7416133851595587	TextEditor.exe	cf6e87e18aee9469
+59	336	7416135256687694	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+59	336	7416135256687694	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+59	336	7416135256687694	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+59	336	7416135256687694	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+338	4612	7416135259527363	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+4612	5010	7416135302273347	TextEditor.exe	cf6e87e18aee9469
+98	586	7416136495718248	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+98	586	7416136495718248	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+98	586	7416136495718248	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+98	586	7416136495718248	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+587	7538	7416136500669175	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7538	8083	7416136570181364	TextEditor.exe	cf6e87e18aee9469
+83	496	7416138351716468	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+83	496	7416138351716468	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+83	496	7416138351716468	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+83	496	7416138351716468	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+497	7942	7416138355991285	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7943	8404	7416138430448226	TextEditor.exe	cf6e87e18aee9469
+73	424	7416139682228458	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+73	424	7416139682228458	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+73	424	7416139682228458	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+73	424	7416139682228458	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+426	7402	7416139685817640	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7403	7985	7416139755599475	TextEditor.exe	cf6e87e18aee9469
+50	324	7416140565796151	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+50	324	7416140565796151	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+50	324	7416140565796151	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+50	324	7416140565796151	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+325	4621	7416140568599105	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+4621	5019	7416140611563605	TextEditor.exe	cf6e87e18aee9469
+89	576	7416141414950189	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+89	576	7416141414950189	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+89	576	7416141414950189	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+89	576	7416141414950189	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+578	7546	7416141419858139	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7547	8101	7416141489548184	TextEditor.exe	cf6e87e18aee9469
+67	452	7416141920214131	TextEditor_autogen/timestamp	1f60a37b1013ab9e
+67	452	7416141920214131	TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+67	452	7416141920214131	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/timestamp	1f60a37b1013ab9e
+67	452	7416141920214131	D:/QT PROJECT/TextEditor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TextEditor_autogen/mocs_compilation.cpp	1f60a37b1013ab9e
+453	7545	7416141924105645	CMakeFiles/TextEditor.dir/mainwindow.cpp.obj	59085908afa303ba
+7545	8117	7416141995031624	TextEditor.exe	cf6e87e18aee9469
